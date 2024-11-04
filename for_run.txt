@@ -1,0 +1,8 @@
+hadoop fs $HADOOP_HOME\share\hadoop\tools\lib\hadoop-streaming-3.3.6.jar \
+-input /input/input1.txt 
+-output /output/output_new 
+-mapper ./mapper.py
+-reducer .\reducer.py
+
+$HADOOP_HOME/bin/hadoop fs cat /output/output_new 
+
