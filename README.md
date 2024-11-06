@@ -1,6 +1,6 @@
 # HADOOP-word-counting
 This project shows how efficient word counting is on text data using MapReduce in Apache Hadoop. This is a classic task for continuing to work with data.  
-run.txt contains a command to run via the console on Windos
+for_run.txt contains a command to run via the console on Windos
 # Requirements
 Java (jdk)  
 Apache Hadoop version 3.3.6  
