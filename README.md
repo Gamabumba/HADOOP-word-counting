@@ -1,6 +1,2 @@
 # HADOOP-word-counting
-В этом репозитории содержится простой word count с MapReduce на Windows
-# Requisits
-Hadoop
-Python
-Java(jdk)
+Этот проект показывает, как выполняется подсчет слов в текстовых данных с помощью MapReduce в Apache Hadoop. Это классическая задача для демонстрации работы с большими данными.
